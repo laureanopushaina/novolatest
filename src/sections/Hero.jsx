@@ -6,7 +6,7 @@ export default function Hero(){
           <div className="hero-content">
             <h1>Tu escape de lujo en la ciudad</h1>
             <p>Descubre habitaciones unica y un sevicio exclusivo</p>
-            <button className="hero-button"></button>
+            <button className="hero-button">Ver Habitaciones</button>
           </div>
         </section>
     )
